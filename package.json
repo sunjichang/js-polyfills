@@ -1,0 +1,19 @@
+{
+  "name": "js-polyfills",
+  "version": "0.0.1",
+  "description": "js-polyfills replaceAll",
+  "author": "Jichang Sun <sunyun898@sina.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js-polyfills",
+    "replaceAll"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sunjichang/js-polyfills.git"
+  },
+  "license": "MIT"
+}
