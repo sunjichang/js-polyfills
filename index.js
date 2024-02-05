@@ -3,7 +3,6 @@
     // replaceAll polyfill
     if (typeof String.prototype.replaceAll === "undefined") {
       String.prototype.replaceAll = function (match, replaceText) {
-        console.log('custom replaceAll')
         // 传入的match进行判断 正则 或字符串
         if (Object.prototype.toString.call(match) === '[object RegExp]') {
           return this.replace(match, replaceText)

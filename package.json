@@ -1,6 +1,6 @@
 {
-  "name": "js-polyfills",
-  "version": "0.0.1",
+  "name": "javascript-polyfills",
+  "version": "0.0.2",
   "description": "js-polyfills replaceAll",
   "author": "Jichang Sun <sunyun898@sina.com>",
   "main": "index.js",
